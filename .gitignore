@@ -1,0 +1,7 @@
+/.lake/
+/build/
+*.olean
+*.ilean
+project/guest.elf
+project/.godot/
+project/*.uid
